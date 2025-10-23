@@ -1,0 +1,1 @@
+This repository contains the main RoomVision source files manually uploaded from the local project folder. Automatically generated Unity build or cache files (e.g., Library, Temp, Logs) have been excluded.
